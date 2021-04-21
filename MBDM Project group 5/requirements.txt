@@ -1,0 +1,6 @@
+ema-workbench
+numpy
+pandas
+platypus-opt
+pickle
+seaborn
