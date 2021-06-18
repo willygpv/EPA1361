@@ -16,7 +16,7 @@ For the final assignment of __EPA1361 Model-based Decision-making__ robust polic
 ## Folder structure
 
 ```
-EPA1361
+final assignment
 │
 └───dike_model <-- contains the model files and the analysis notebooks.
 │   │ 
@@ -34,10 +34,10 @@ EPA1361
 To follow the steps of the analysis the notebooks have to be executed in the following order. Please bear in mind that the cells that peform experiments or optimize have been commented out and instead the notebooks read the results from the save files. 
 
 
-1. EPA1361\dike_model\1 - Basecase_analysis.ipynb. 
-2. EPA1361\dike_model\2 - Policy_exploration.ipynb. 
-3. EPA1361\dike_model\3 - MORDM_Optimization.ipynb. 
-4. EPA1361\dike_model\4 - Policy_Reevaluation.ipynb. 
+1. final assignment\dike_model\1 - Basecase_analysis.ipynb. 
+2. final assignment\dike_model\2 - Policy_exploration.ipynb. 
+3. final assignment\dike_model\3 - MORDM_Optimization.ipynb. 
+4. final assignment\dike_model\4 - Policy_Reevaluation.ipynb. 
 
 
 ## Built with
