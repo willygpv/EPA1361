@@ -13,7 +13,7 @@ Group Number   10
 ## Introduction
 For the final assignment of __EPA1361 Model-based Decision-making__ robust policies for water management on the IJssel River are identified. The specific focus is on mitigating flood risks by implementing Room for the River (RfR) projects relative to using alternative measures of protection such as dike heightening. Using a simulation model, it is analyzed how the client - the environmental interest group - can design a water management policy for the IJssel river that maximizes the environmental potential of RfR while being robust and effective under different uncertain future scenarios. The robust policy optimization process focuses on the computation of policies which are maximally effective against the worst manifestation of possible futures. Policies were evaluated based on five key performance indicators: 'Expected annual damage', 'Expected number of deaths', 'RfR costs', 'Dike heightening costs', and 'Evacuation costs'.
 
-## File structure
+## Folder structure
 
 ```
 EPA1361
