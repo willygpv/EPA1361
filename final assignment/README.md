@@ -33,7 +33,7 @@ final assignment
 
 To follow the steps of the analysis the notebooks have to be executed in the following order. Please bear in mind that the cells that peform experiments or optimize have been commented out and instead the notebooks read the results from the save files. 
 
-
+0. final assignment\dike_model\0 - Random_policy_generation.ipynb.
 1. final assignment\dike_model\1 - Basecase_analysis.ipynb. 
 2. final assignment\dike_model\2 - Policy_exploration.ipynb. 
 3. final assignment\dike_model\3 - MORDM_Optimization.ipynb. 
