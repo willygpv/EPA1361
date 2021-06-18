@@ -26,7 +26,7 @@ EPA1361
 │
 └───results <-- contains the outcome files of the simulations and the data analysis. The analysis notebooks in EPA1361/dike_model rely on these files.
 │  
-└───report <-- contains the final report.
+└───reports <-- contains the final report and the political reflection.
 
 ```
 ## Usage
